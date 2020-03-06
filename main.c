@@ -6,7 +6,7 @@ Initial Function()
 }
 
 Initial Security()
-Initial Security 1 ()
+New Initial Security  ()
 {
  //Sample Code
 }
